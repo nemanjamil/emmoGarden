@@ -1,0 +1,2 @@
+C:\Users\milan\AppData\Roaming\Arduino15\packages\esp8266\tools\xtensa-lx106-elf-gcc\1.20.0-26-gb404fb9\xtensa-lx106-elf\lib
+http://www.whatimade.today/esp8266-easiest-way-to-program-so-far/
