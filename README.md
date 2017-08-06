@@ -13,3 +13,4 @@ Kada se povezu mobilni i harver onda se na mobilnom telefonu dobije lista Wifi s
 
 Prikaz mozete videti na ovoj slici - https://github.com/nemanjamil/emmoGarden/blob/master/codeForBoard/pictures/povezivanje.PNG
 
+
