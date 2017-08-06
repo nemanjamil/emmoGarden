@@ -8,6 +8,7 @@ Web  - http://direktnoizbaste.rs/
 
 **EmmoGarden Verzija 1.0.**
 https://github.com/nemanjamil/emmoGarden/tree/master/CodeForBoard_Emmo_Flower
+
 Sistem funkcionise tako sto se harver stavi u mod za povezivanje, pritiskom i drzanjem tastera. Kada led pocinje duze da sija onda se Mobilni telefon povezuje sa WiMrezom od harvera. 
 Kada se povezu mobilni i harver onda se na mobilnom telefonu dobije lista Wifi svih mreza. Odabirom na jednu mrezu povezujemo PCB i Wifi Mrezu.
 
