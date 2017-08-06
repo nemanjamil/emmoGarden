@@ -1,4 +1,4 @@
-# emmoGarden
+# emmoGarden - Flower
 Emmo Garden - free OpenSourse solution for Hidroponic or GreenHouse gardens
 
 Android App - https://play.google.com/store/apps/details?id=rs.direktnoizbaste.dizb&hl=en
@@ -14,4 +14,6 @@ Kada se povezu mobilni i harver onda se na mobilnom telefonu dobije lista Wifi s
 
 Prikaz mozete videti na ovoj slici - https://github.com/nemanjamil/emmoGarden/blob/master/codeForBoard/pictures/povezivanje.PNG
 
+
+# emmoGarden - HydroPonic solution
 
