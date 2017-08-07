@@ -13,7 +13,8 @@ Sistem funkcionise tako sto se harver stavi u mod za povezivanje, pritiskom i dr
 Kada se povezu mobilni i harver onda se na mobilnom telefonu dobije lista Wifi svih mreza. Odabirom na jednu mrezu povezujemo PCB i Wifi Mrezu.
 
 Prikaz mozete videti na ovoj slici - 
-![TSL2561 Luminosity Sensor Breakout](https://github.com/nemanjamil/emmoGarden/blob/master/CodeForBoard_Emmo_Flower/pictures/povezivanje.PNG)](https://github.com/nemanjamil/emmoGarden/blob/master/CodeForBoard_Emmo_Flower/pictures/povezivanje.PNG)
+![Prikaz povezivanja](https://github.com/nemanjamil/emmoGarden/blob/master/CodeForBoard_Emmo_Flower/pictures/povezivanje.PNG)
+(https://github.com/nemanjamil/emmoGarden/blob/master/CodeForBoard_Emmo_Flower/pictures/povezivanje.PNG)
 
 
 # emmoGarden - HydroPonic solution
