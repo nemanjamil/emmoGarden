@@ -14,7 +14,7 @@ Kada se povezu mobilni i harver onda se na mobilnom telefonu dobije lista Wifi s
 
 Prikaz mozete videti na ovoj slici - 
 ![Prikaz povezivanja](https://github.com/nemanjamil/emmoGarden/blob/master/CodeForBoard_Emmo_Flower/pictures/povezivanje.PNG)
-(https://github.com/nemanjamil/emmoGarden/blob/master/CodeForBoard_Emmo_Flower/pictures/povezivanje.PNG)
+
 
 
 # emmoGarden - HydroPonic solution
