@@ -19,3 +19,4 @@ Prikaz mozete videti na ovoj slici -
 
 # emmoGarden - HydroPonic solution
 
+Novi projekat - pravljenje od NULL
