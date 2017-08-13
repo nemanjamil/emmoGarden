@@ -10,10 +10,11 @@ Web  - http://direktnoizbaste.rs/
 https://github.com/nemanjamil/emmoGarden/tree/master/CodeForBoard_Emmo_Flower
 
 Sistem funkcionise tako sto se hardver (PCB) stavi u mod za povezivanje, pritiskom i drzanjem tastera 3 sekinde. 
-U tom trenutku led lampica pocinje konstantno da sija. 
+U tom trenutku led lampica pocinje konstantno da sija i ukljucuje se Wifi od PCB-a.
+
 Tada pocinje povezivanje Mobilnog telefona sa Wifi od hardvera (PCB-a).  
 
-Na mobilnom telefonu se pojavljuje lista svim Wifi mreza iz okruzenja, korisnik pronalazi Wifi mrezu od PCB-a i klikne na nju i upise sifru do WiFi-a kucnog rutera.
+Pretragom WiFi mreza na mobilnom telefonu, korisnik pronalazi Wifi mrezu od PCB-a i klikne na nju i upise sifru do WiFi-a kucnog rutera.
 Tada se povezuje WiFi od PCB-a i WiFi od kucnog rutra i ostvaruje se konekcija. (Salje se ping sa PCB-a ka nasem Serveru da li postoji konekcija i server vraca true ili false)
 Nakon toga se Mobilni telefon otkacuje sa Wifi-a od PCB-a i ponovo kaci na WiFi od kucnog rutera.
 
